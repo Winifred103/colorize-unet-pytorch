@@ -3,8 +3,8 @@
 [![PyTorch](https://img.shields.io/badge/PyTorch-%3E%3D1.0-black?logo=pytorch)](https://pytorch.org)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)](https://www.python.org)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](/LICENSE)
-[![Gradio Demo](https://img.shields.io/badge/Gradio-Demo-brightgreen?logo=gradio)](https://huggingface.co/spaces/Marrro90123/colorize-unet-pytorch)
-[![Hugging Face Space](https://img.shields.io/badge/Hugging%20Face-Space-ff6f00?logo=huggingface)](https://huggingface.co/spaces/Marrro90123/colorize-unet-pytorch)
+[![Gradio Demo](https://img.shields.io/badge/Gradio-Demo-brightgreen?logo=gradio)](https://huggingface.co/spaces/AmmarAhm3d/colorize-unet-pytorch)
+[![Hugging Face Space](https://img.shields.io/badge/Hugging%20Face-Space-ff6f00?logo=huggingface)](https://huggingface.co/spaces/AmmarAhm3d/colorize-unet-pytorch)
 
 PyTorch U‑Net image colorization (LAB color space) — trained on COCO, includes evaluation (PSNR/SSIM/RMSE/SNR) and a Gradio demo.
 
@@ -24,7 +24,7 @@ PyTorch U‑Net image colorization (LAB color space) — trained on COCO, includ
 
 A live Gradio demo is available on Hugging Face Spaces:
 
-- Hugging Face Space (Gradio demo): https://huggingface.co/spaces/Marrro90123/colorize-unet-pytorch
+- Hugging Face Space (Gradio demo): https://huggingface.co/spaces/AmmarAhm3d/colorize-unet-pytorch
 
 You can open the demo to try the model in the browser without installing anything locally.
 
@@ -231,7 +231,7 @@ python app.py
 
 Or try the hosted demo on Hugging Face Spaces:
 
-- https://huggingface.co/spaces/Marrro90123/colorize-unet-pytorch
+- https://huggingface.co/spaces/AmmarAhm3d/colorize-unet-pytorch
 
 The app will:
 - Start a web server with a user-friendly interface
